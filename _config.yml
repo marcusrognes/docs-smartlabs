@@ -2,8 +2,7 @@
 title: Smart Labs Doc
 email: marcus@smartlabs.no
 description: > 
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Smart Labs Documentation and snippets.
 
 baseurl: "/docs-smartlabs" # the subpath of your site, e.g. /blog/
 url: https://marcusrognes.github.io/docs-smartlabs/ # the base hostname & protocol for your site
