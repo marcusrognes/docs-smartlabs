@@ -7,7 +7,7 @@ description: >
 baseurl: "/docs-smartlabs" # the subpath of your site, e.g. /blog/
 url: https://marcusrognes.github.io/docs-smartlabs/ # the base hostname & protocol for your site
 git_address: https://github.com/marcusrognes/docs-smartlabs
-git_edit_address: https://github.com/marcusrognes/docs-smartlabs/blob/gh-pages
+git_edit_address: https://github.com/marcusrognes/docs-smartlabs/blob/master
 
 # Build settings
 markdown: kramdown
