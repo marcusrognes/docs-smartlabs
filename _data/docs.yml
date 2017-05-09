@@ -7,6 +7,8 @@
   - react-style-guide
 
 - title: Meteor
+  docs:
+  - meteor-actions
 
 - title: Heroku
   docs:
