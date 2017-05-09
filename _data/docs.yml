@@ -2,6 +2,12 @@
   docs:
   - home
 
+- title: React
+  docs:
+  - react-style-guide
+
+- title: Meteor
+
 - title: Cheatsheets
   docs:
   - markdown
