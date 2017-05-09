@@ -8,6 +8,10 @@
 
 - title: Meteor
 
+- title: Heroku
+  docs:
+  - heroku-scripts
+
 - title: Cheatsheets
   docs:
   - markdown
