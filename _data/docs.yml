@@ -1,10 +1,8 @@
 - title: Getting Started
   docs:
   - home
-  - customization
 
-- title: Examples
+- title: Cheatsheets
   docs:
-  - cheatsheet
-  - font-awesome
+  - markdown
   - bootstrap

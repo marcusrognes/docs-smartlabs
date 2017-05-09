@@ -48,3 +48,7 @@ Add a new Markdown file such as `2017-05-09-my-post.md` and write the content si
 The home page is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap componenets](http://getbootstrap.com/components/))
 
 In order to add a new page, create a new html or markdown file under root directory and link it in `_includes/topnav.html`.
+
+### Customizations
+This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) with [bootwatch paper theme](https://bootswatch.com/paper/)'s custom sass variables.
+You can change any kind of properties such as font size, color set and etc. in `_sass/_variables.scss` file.
