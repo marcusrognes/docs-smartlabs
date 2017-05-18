@@ -34,6 +34,13 @@ defaults:
     sectionid: blog
 
 - scope:
+    path: _links
+    type: links
+  values:
+    layout: post
+    sectionid: links
+
+- scope:
     path: _docs
     type: docs
   values:
@@ -49,3 +56,5 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+  links:
+      output: false

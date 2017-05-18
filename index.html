@@ -14,6 +14,20 @@ layout: default
 	</div>
 </div>
 
+<div class="container">
+	<h3 class="header-light">Nifty links</h3>
+	<div class="row">
+		{% for link in site.links %}
+		<p>
+			<strong><a target="_blank" href="{{ link.link }}">{{ link.title }}</a></strong>
+			<span>added on {{ link.date | date: "%B %e, %Y" }} {% if link.author %} by {{ link.author }}{% endif %}</span>
+			<br/>
+			<span>- {{ link.description }}</span>
+		</p>
+		{% endfor %}
+	</div>
+</div>
+
 <!--
 <div class="container">
 
