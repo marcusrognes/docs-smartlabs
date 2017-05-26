@@ -5,7 +5,7 @@ permalink: /docs/file-manipulation/
 
 ### Images
 Find and resize all files in folder to conform to max width and height.
-Requires that ImageMagic is installed 
+Requires that ImageMagick is installed 
 
 ```bash
 #!/bin/bash
